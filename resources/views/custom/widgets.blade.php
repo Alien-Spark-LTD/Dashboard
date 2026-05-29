@@ -363,7 +363,7 @@
                     </div>
                     <div class="col-9 col-sm-10">
                         <div class="alert alert-success px-2" role="alert">
-                            <p class="mb-0">Design Review - Larkon Admin</p>
+                            <p class="mb-0">Design Review - Alien Spark CRM Admin</p>
                             <p class="mb-0">10:00 - 10:30</p>
                         </div>
                     </div>

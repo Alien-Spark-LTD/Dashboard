@@ -13,7 +13,7 @@
                             <img class="logo-dark me-1" src="/images/logo-dark.png" alt="logo-dark" height="24" />
                         </div>
                         <div class="mt-4">
-                            <h4>Larkon Admin.</h4>
+                            <h4>Alien Spark CRM Admin.</h4>
                             <address class="mt-3 mb-0">
                                 1729 Bangor St,<br>
                                 Houlton, ME, 04730 , United States <br>
@@ -71,7 +71,7 @@
                         <div class="">
                             <h4 class="card-title">Issue From :</h4>
                             <div class="mt-3">
-                                <h4>Larkon Admin.INC</h4>
+                                <h4>Alien Spark CRM.INC</h4>
                                 <p class="mb-2">2437 Romano Street Cambridge, MA 02141</p>
                                 <p class="mb-2"><span class="text-decoration-underline">Phone :</span> +(31)781-417-2004</p>
                                 <p class="mb-2"><span class="text-decoration-underline">Email :</span> JulianeKuhn@jourrapide.com</p>

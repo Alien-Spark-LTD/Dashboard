@@ -31,8 +31,8 @@
                 <div class="avatar bg-primary-subtle d-flex align-items-center justify-content-center rounded mb-2">
                     <iconify-icon icon="solar:round-arrow-right-bold" class="fs-24 text-primary"></iconify-icon>
                 </div>
-                <h4 class="mt-3">Getting Started with Larkon</h4>
-                <p>Welcome to Larkon Dive into basic for a swift on boarding experience</p>
+                <h4 class="mt-3">Getting Started with Alien Spark CRM</h4>
+                <p>Welcome to Alien Spark CRM Dive into basic for a swift on boarding experience</p>
 
                 <div class="d-flex align-items-center gap-2">
                     <img src="/images/users/avatar-1.jpg" alt="user photo" class="avatar-sm rounded-circle">
@@ -231,7 +231,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <h4 class="card-title">Getting Started with Larkon</h4>
+                <h4 class="card-title">Getting Started with Alien Spark CRM</h4>
                 <div class="row g-2 mt-2">
                     <div class="col-lg-6">
                         <div class="ratio ratio-16x9">

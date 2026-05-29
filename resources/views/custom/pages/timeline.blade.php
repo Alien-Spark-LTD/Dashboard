@@ -56,7 +56,7 @@
                         <div class="overflow-hidden">
                             <div class="card d-inline-block">
                                 <div class="card-body">
-                                    <h5 class="mt-0 fs-16">We released new version of our theme Larkon.</h5>
+                                    <h5 class="mt-0 fs-16">We released new version of our theme Alien Spark CRM.</h5>
                                     <p class="text-muted mb-0">3 new photo Uploaded on facebook fan page
                                     </p>
                                 </div>
@@ -141,7 +141,7 @@
             <li class="left-timeline-list">
                 <div class="card d-inline-block">
                     <div class="card-body">
-                        <h5 class="mt-0 fs-16">We released new version of our theme Larkon.</h5>
+                        <h5 class="mt-0 fs-16">We released new version of our theme Alien Spark CRM.</h5>
                         <p class="text-muted mb-0">3 new photo Uploaded on facebook fan page</p>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
             <li class="left-timeline-list">
                 <div class="card d-inline-block">
                     <div class="card-body">
-                        <h5 class="mt-0 fs-16">First release of Larkon admin dashboard template</h5>
+                        <h5 class="mt-0 fs-16">First release of Alien Spark CRM admin dashboard template</h5>
                         <p class="text-muted mb-0">Outdoor visit at California State Route 85 with John
                             Boltana & Harry Piterson regarding to setup a new show room.</p>
                     </div>

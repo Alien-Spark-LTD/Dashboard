@@ -112,7 +112,7 @@
                         <div class="avatar-sm bg-light d-flex align-items-center justify-content-center rounded">
                             <iconify-icon icon="solar:link-bold-duotone" class="fs-20 text-secondary"></iconify-icon>
                         </div>
-                        <p class="mb-0 fs-14">Website <a href="#!" class="text-primary fw-semibold">www.larkon.co</a></p>
+                        <p class="mb-0 fs-14">Website <a href="#!" class="text-primary fw-semibold">www.alien-spark-crm.com</a></p>
                     </div>
                     <div class="d-flex align-items-center gap-2 mb-2">
                         <div class="avatar-sm bg-light d-flex align-items-center justify-content-center rounded">
@@ -284,7 +284,7 @@
                     </li>
                 </ul>
                 <p class="text-muted">Copy the URL below and share it with your friends:</p>
-                <p class="d-flex align-items-center border p-2 rounded-2 border-dashed bg-body text-start mb-0">https://larkon-mileage.com <a href="#!" class="ms-auto fs-4"><i class="ti ti-copy"></i></a></p>
+                <p class="d-flex align-items-center border p-2 rounded-2 border-dashed bg-body text-start mb-0">https://alien-spark-crm-mileage.com <a href="#!" class="ms-auto fs-4"><i class="ti ti-copy"></i></a></p>
             </div>
         </div>
     </div>

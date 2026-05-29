@@ -139,7 +139,7 @@
                         <form>
                             <div class="mb-3">
                                 <label for="product-brand" class="form-label">Brand</label>
-                                <input type="text" id="product-brand" class="form-control" placeholder="Brand Name" value="Larkon Fashion">
+                                <input type="text" id="product-brand" class="form-control" placeholder="Brand Name" value="Alien Spark CRM Fashion">
                             </div>
                         </form>
                     </div>

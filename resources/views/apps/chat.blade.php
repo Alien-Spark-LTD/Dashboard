@@ -400,7 +400,7 @@
                                     <a href="javascript:void(0);"><i class="bx bx-qr-scan fs-20"></i></a>
                                 </div>
                                 <h5 class="my-0 fs-14">Gaston Lapierre</h5>
-                                <p class="mt-1 mb-0 text-muted"><span class="w-75">Hey there! I am using Larkon Chat.</span></p>
+                                <p class="mt-1 mb-0 text-muted"><span class="w-75">Hey there! I am using Alien Spark CRM Chat.</span></p>
                             </div>
                         </div>
 
@@ -422,7 +422,7 @@
                                         <div class="accordion-body pb-0">
                                             <ul class="list-unstyled mb-0">
                                                 <li class="mb-2"><a href="javascript:void(0);"><i class="bx bx-lock-alt fs-18 me-2"></i>Privacy</a></li>
-                                                <li class="mb-2"><a href="javascript:void(0);"><i class="bx bx-check-Larkon fs-18 me-2"></i>Security</a></li>
+                                                <li class="mb-2"><a href="javascript:void(0);"><i class="bx bx-check-square fs-18 me-2"></i>Security</a></li>
                                                 <li class="mb-2"><a href="javascript:void(0);"><i class="bx bx-badge-check fs-18 me-2"></i>Two-step verification</a></li>
                                                 <li class="mb-2"><a href="javascript:void(0);"><i class="bx bx-arrow-from-left fs-18 me-2"></i>Change number</a></li>
                                                 <li class="mb-2"><a href="javascript:void(0);"><i class="bx bx-info-circle fs-18 me-2"></i>Request account info</a></li>

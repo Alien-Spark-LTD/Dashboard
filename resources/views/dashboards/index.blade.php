@@ -200,37 +200,37 @@
                         </thead>
                         <tbody>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/ecommerce.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/ecommerce.html</a></td>
                             <td>465</td>
                             <td><span class="badge badge-soft-success">4.4%</span></td>
                         </tr>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/dashboard.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/dashboard.html</a></td>
                             <td> 426</td>
                             <td><span class="badge badge-soft-danger">20.4%</span></td>
                         </tr>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/chat.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/chat.html</a></td>
                             <td>254</td>
                             <td><span class="badge badge-soft-warning">12.25%</span></td>
                         </tr>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/auth-login.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/auth-login.html</a></td>
                             <td> 3369</td>
                             <td><span class="badge badge-soft-success">5.2%</span></td>
                         </tr>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/email.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/email.html</a></td>
                             <td>985</td>
                             <td><span class="badge badge-soft-danger">64.2%</span></td>
                         </tr>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/social.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/social.html</a></td>
                             <td>653</td>
                             <td><span class="badge badge-soft-success">2.4%</span></td>
                         </tr>
                         <tr>
-                            <td class="ps-3"><a href="#" class="text-muted">larkon/blog.html</a></td>
+                            <td class="ps-3"><a href="#" class="text-muted">alien-spark-crm/blog.html</a></td>
                             <td>478</td>
                             <td><span class="badge badge-soft-danger">1.4%</span></td>
                         </tr>
